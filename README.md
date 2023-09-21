@@ -1,5 +1,7 @@
 # Deep-Learning-Approaches-to-RUL-Prediction-of-Lithium-ion-Batteries
 
+## NMC-LCO 18650 배터리 RUL 예측
+
 ####    0.<span style="color: red;"> Hawaii Natural Energy Institute에서 공개한 실제 NMC-LCO 18650 배터리 시험 데이터를 활용해서 데이터 분석을 진행함
     
 ####    1. <span style="color: red;"> 배터리 RUL에 영향을 주는 여러 인자들 중 충방전 할때 변화하는 값들의 의미를 이해하였고, 실제 분석도 진행했음 </span>
