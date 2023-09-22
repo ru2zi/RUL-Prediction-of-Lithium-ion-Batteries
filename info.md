@@ -11,4 +11,4 @@
 
 
 ## 추가 참고 자료
-(설비(기기)의 RUL 예측)[https://devocean.sk.com/blog/techBoardDetail.do?ID=164001]   
+[설비(기기)의 RUL 예측](https://devocean.sk.com/blog/techBoardDetail.do?ID=164001)
