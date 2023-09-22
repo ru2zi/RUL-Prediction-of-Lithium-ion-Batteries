@@ -12,3 +12,4 @@
 
 ## 추가 참고 자료
 [설비(기기)의 RUL 예측](https://devocean.sk.com/blog/techBoardDetail.do?ID=164001)
+[STL 적용](https://journal-home.s3.ap-northeast-2.amazonaws.com/site/2023w/abs/0629-GRSEM.pdf)
